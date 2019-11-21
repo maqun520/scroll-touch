@@ -16,4 +16,4 @@ Vue 滚动触底 mixins
 
 * 经过上面三种情况的分析，我们需要拿到 可视区域的高度 , 滚动高度 , 文档高度这三个变量来进行比较。
 ## 地址
-* [Demo](https://codepen.io/gwx-code/pen/wvvNdXP)
+* [codepenDemo](https://codepen.io/gwx-code/pen/wvvNdXP)
