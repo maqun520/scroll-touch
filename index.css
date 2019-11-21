@@ -1,0 +1,16 @@
+li{
+  height: 70px;
+  line-height: 70px;
+  border-bottom:1px solid #eee;
+}
+#loading-alert{
+  width:100%;
+  height: 40px;
+  position:fixed;
+  bottom:0;
+  left:0;
+  text-align: center;
+  line-height: 40px;
+  font-size:14px;
+  color:red;
+}
